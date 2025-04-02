@@ -1,6 +1,6 @@
 # Capstone 1
 [![Open In Colab](https://colab.research.google.com/assets/colab-
-badge.svg)](https://github.com/mitacrane/capstone1.ipynb)
+badge.svg)]([https://github.com/mitacrane/capstone1.ipynb](https://colab.research.google.com/github/mitacrane/capstone1/blob/main/capstone1.ipynb))
 ## Mita Crane
 
 # Data summary
